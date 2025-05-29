@@ -1,11 +1,26 @@
-Final Portfolio Gurman B
+👋 About Me
+Hello! My name is Gurman B, and I am a junior currently learning the principles of computer science. This year has been both challenging and rewarding—I’ve grown so much as a coder and problem solver. From the basics of programming to building interactive websites, I’ve gained a solid foundation in coding. I’m excited to showcase my skills and the projects I’ve worked on throughout the year!
 
-About Me: Hello, My name is Gurman B, I am a junior student learning computer science principles. It was a hard year and I learned a lot about coding and programming languages. Im exicted to show my knowledge and work on my projects.
+🗂️ Overview
+Welcome to my digital portfolio! This collection highlights the work I've done over the school year, starting from simple HTML projects, advancing through CSS designs, and finishing with interactive JavaScript apps. Over time, I learned how to write cleaner, more efficient code and how to make my designs more user-friendly and visually appealing. You'll see a variety of creations—from fun games to helpful tools.
 
-Overview: This portfolio shows the work I did over the school year. It shows my html projects to css and javascript. I learned how to imrpove my code over the year and make it look better. My codes go from games to simple tools to help you. 
+📦 What's Inside
+Here’s what you’ll find in my portfolio:
 
-Things in my portfolio: Some things in my portfolio include, A about me section (above), screenshots of my projects, links to the projects so you can try it out.
+🧍‍♂️ An “About Me” section (you're reading it now!)
 
-Projects: My Projects include, a Color Switcher Game,Image slider, and Digital Clock
+🖼️ Screenshots of my projects
 
-Links:
+🔗 Direct links to try out each project yourself
+
+📃 Descriptions explaining what I built and what I learned
+
+💻 Projects
+Here are just a few of the awesome things I built:
+
+🎨 Color Switcher Game – A fun game where you change background colors using buttons or auto-mode. Great for learning event listeners!
+
+🖼️ Image Slider – A smooth and responsive image carousel that shows off photos or content. Learned about arrays and dynamic DOM manipulation.
+
+🕒 Digital Clock – A real-time digital clock that updates every second. This taught me how to work with Date objects and intervals in JavaScript.
+
